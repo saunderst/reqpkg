@@ -1,0 +1,22 @@
+{
+  "name": "reqpkg",
+  "version": "1.0.0",
+  "description": "An exercise in using the request package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saunderst/reqpkg.git"
+  },
+  "author": "thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saunderst/reqpkg/issues"
+  },
+  "homepage": "https://github.com/saunderst/reqpkg#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
